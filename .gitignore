@@ -1,1 +1,6 @@
 __pycache__/
+build/
+dist/
+scp_261.spec
+scp_261.exe
+game_data.json
